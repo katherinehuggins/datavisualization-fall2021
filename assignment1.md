@@ -28,3 +28,9 @@ This was an extremely comprehensive and well-written piece with strong supportin
 
 Type & Color
 The typogrpahy throughout the article is clear and reads well. While the photos add color, I do wish the visualization had a little more umph to it — making it more comprehensible and eye-catching.
+Type — 4, easy on the eyes but basic
+Color — 2, the piece really relied on the photos as a visual element and I thought it could have used more both in the visualization and in breaking up the text 
+
+Creativity — 4.5
+I found this story very interesting but its engagement was slightly lacking. I'm not sure I would have stayed to read the whole thing if I didn't have to — that probably could have been solved with increased variety of visuals and more color. Other than that, the piece was fantastic!
+
