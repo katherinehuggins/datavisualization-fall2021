@@ -1,4 +1,4 @@
-# Padilla Hardly Relies on PACs for Fundraising, Indidividuals Remain Primary Source
+# Padilla Does Not Rely on PACs for Fundraising, Individuals Remain Primary Source
 
 Sen. Alex Padilla, D-Calif., who was appointed by California Gov. Gavin Newsom (D) to fill now-Vice President Kamala Harris' seat, appears financially prepared to take on his first Senate election, with the vast majority of his funding coming from small donations from individuals in California.
 According to data from the FEC, nearly two-thirds of donations (63%) to Padilla since early 2021 came from individuals — and over half (55%) of all his donations came from entities in California, highlighting a strong base both locally and financially, with which the senator can launch his re-election bid.
