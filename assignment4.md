@@ -4,6 +4,7 @@ Sen. Alex Padilla, D-Calif., who was appointed by California Gov. Gavin Newsom (
 According to data from the FEC, nearly two-thirds of donations (63%) to Padilla since early 2021 came from individuals — and over half (55%) of all his donations came from entities in California, highlighting a strong base both locally and financially, with which the senator can launch his re-election bid.
 
 Original data set link: https://www.fec.gov/data/receipts/?data_type=efiling&committee_id=C00765164
+
 Working data set to see the steps I took in Excel: https://github.com/katherinehuggins/datavisualization-fall2021/blob/main/Alex%20Padilla%20Data_KHuggins.xls
 
 ### Steps to Clean Data
