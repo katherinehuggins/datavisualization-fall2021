@@ -26,15 +26,19 @@ Command A and insert pivot table in a new sheet, drag contributor state into row
 Using that same pivot table, I also sorted by entity type (and eliminated the state filter), as well "contributor full name" under entity type. My questions and subsequent findings are below.
 
 1. Where did the largest sum of money come from during 2021-2022, state-wise?
+
 A: California by a massive margin ($4.3 million), followed by Massachusetts ($1.9 million) and Washington, D.C. (about $520k). 
 
 2. Conversely, what states offered the least amount of funding to Padilla?
+
 A: Arkansas ($250), West Virginia ($375) and Kentucky ($500)
 
 3. What percentage of the donations were coming from individuals versus PACs/committees/etc?
+
 A: The vast majority (62.5%) of donations during the 2021-2022 cycle came from individuals (about $5 million), followed by ~$2 million from organizations (25%) and about $980,000 from PACS (~12%). 
 
 4. Who were the top aggregate donors over the 1-year-period among those top three groupings (individual, organization and PAC)?
+
 A: The biggest aggregate donor was the organization ActBlue with an aggregate of $1.4 million over the year, followed by Padilla's PAC, Padilla Harder Victory Fund, with about $22,000 in total donations. This shows that while his campaign received most of its funding through individual donors, as shown above, most donors did not contribute large sums. 
 The individual donor with the biggest donation aggegrate sum from the year is David Lizarraga, at just $7800.
 
