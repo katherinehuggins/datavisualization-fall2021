@@ -20,7 +20,7 @@ Working data set to see the steps I took in Excel: https://github.com/katherineh
 9. New sheet and delete columns first/middle/last (the copying and pasting clears the formula too and makes it only values) 
 10. Change columns J and K into currency 
 
-Now my data is as clean as I want it to be and it's time to analyze...
+### Now my data is as clean as I want it to be and it's time to analyze...
 
 Command A and insert pivot table in a new sheet, drag contributor state into row and sum of contributions into value, then sort from highest to lowest
 Using that same pivot table, I also sorted by entity type (and eliminated the state filter), as well "contributor full name" under entity type. My questions and subsequent findings are below.
