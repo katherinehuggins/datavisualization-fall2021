@@ -1,2 +1,6 @@
+# Cocoa Bean Data Visualization
 
-![](https://public.flourish.studio/visualisation/7777299/)
+### By Katherine Huggins
+
+Full assignment is posted on my CodePen, [click here](https://codepen.io/krhugg/full/MWvXEWW)
+
